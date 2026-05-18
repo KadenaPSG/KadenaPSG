@@ -1,20 +1,37 @@
-# Hi, I'm Gilbert Morgan
+# Hi, I'm Gilbert Morgan 👋
 
-I am a Data Science PhD student with experience in R, Python, SQL, machine learning, statistical modeling, healthcare analytics, population data, GIS, data visualization, and web scraping.
+Data Science PhD student focused on healthcare analytics, machine learning, statistical modeling, and population-level data insights.
 
-My portfolio focuses on using data science tools to clean, analyze, model, visualize, and communicate insights from structured and unstructured data.
+I build projects using Python, R, and SQL to clean, analyze, visualize, and model structured and unstructured data.
 
-## Technical Skills
+---
 
-- **Programming:** Python, R, SQL
-- **Data Analysis:** pandas, NumPy, tidyverse, dplyr
-- **Visualization:** ggplot2, matplotlib, Tableau, Power BI
-- **Machine Learning:** classification, neural networks, CNNs, PCA, predictive modeling
-- **NLP:** language modeling, Hidden Markov Models, Viterbi decoding, Naive Bayes, perceptron models
-- **Statistics:** descriptive statistics, regression modeling, correlation analysis, statistical reporting
-- **Databases:** SQL querying, joins, aggregations, subqueries, relational database analysis
-- **Reporting:** Jupyter Notebook, R Markdown, Quarto
-- **Domains:** healthcare analytics, population data, machine learning, NLP, database analytics
-## Career Interests
+## ⚡ Tech Stack
 
-I am interested in data science, healthcare analytics, population health analytics, machine learning, statistical modeling, database analytics, and data-driven decision support.
+| Area | Tools & Skills |
+|---|---|
+| **Languages** | Python, R, SQL |
+| **Data Science** | pandas, NumPy, tidyverse, dplyr, scikit-learn |
+| **Machine Learning** | Classification, PCA, Neural Networks, CNNs, Predictive Modeling |
+| **NLP** | Naive Bayes, HMMs, Viterbi Decoding, Language Modeling |
+| **Visualization** | Tableau, Power BI, ggplot2, matplotlib |
+| **Databases** | SQL Queries, Joins, Aggregations, Relational Analysis |
+| **Reporting** | Jupyter Notebook, Quarto, R Markdown |
+| **Domains** | Healthcare Analytics, Population Health, GIS, Statistical Modeling |
+
+---
+
+## 📊 Interests
+
+- Healthcare & Population Analytics
+- Machine Learning & NLP
+- Predictive Modeling
+- Statistical Computing
+- Data Visualization
+- Data-Driven Decision Support
+- End-to-end analytics projects
+- Machine learning workflows
+- Healthcare & population data analysis
+- Visualization dashboards
+- NLP experiments
+- Reproducible research notebooks
