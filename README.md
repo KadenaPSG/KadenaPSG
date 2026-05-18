@@ -21,17 +21,11 @@ I build projects using Python, R, and SQL to clean, analyze, visualize, and mode
 
 ---
 
-## 📊 Interests
+## 📊 Focus Areas
 
-- Healthcare & Population Analytics
-- Machine Learning & NLP
-- Predictive Modeling
-- Statistical Computing
-- Data Visualization
-- Data-Driven Decision Support
-- End-to-end analytics projects
-- Machine learning workflows
-- Healthcare & population data analysis
-- Visualization dashboards
-- NLP experiments
-- Reproducible research notebooks
+| Analytics & Research | Machine Learning & AI | Visualization & Workflow |
+|---|---|---|
+| Healthcare & Population Analytics | Machine Learning Workflows | Data Visualization |
+| Statistical Computing | Predictive Modeling | Visualization Dashboards |
+| Data-Driven Decision Support | NLP Experiments | Reproducible Research Notebooks |
+| End-to-End Analytics Projects | Machine Learning & NLP | Healthcare & Population Data Analysis |
