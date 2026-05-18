@@ -1,11 +1,3 @@
-# Hi, I'm Gilbert Morgan 👋
-
-Data Science PhD student focused on healthcare analytics, machine learning, statistical modeling, and population-level data insights.
-
-I build projects using Python, R, and SQL to clean, analyze, visualize, and model structured and unstructured data.
-
----
-
 ## ⚡ Tech Stack
 
 | Area | Tools & Skills |
